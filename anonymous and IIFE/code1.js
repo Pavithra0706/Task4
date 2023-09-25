@@ -28,3 +28,10 @@ const printOddNumbers = function(arr) {
     }
   }
 })(numbers1);
+
+output:
+1
+3
+5
+7
+9
