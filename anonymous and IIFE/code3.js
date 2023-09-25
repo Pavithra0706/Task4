@@ -1,7 +1,7 @@
 // Do the below programs in anonymous function & IIFE 
-// 2) Sum of all numbers in an array. 
+// 3) Sum of all numbers in an array. 
 
-
+// Using anonymous function:
 const numbers = [1, 2, 3, 4, 5];
 
 const sum = function(arr) {
