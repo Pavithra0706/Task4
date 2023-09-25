@@ -2,7 +2,7 @@
 
 //  1)Print odd numbers in an array using anonymous function
 
-
+// Using anonymous function:
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 const printOddNumbers = function(arr) {
