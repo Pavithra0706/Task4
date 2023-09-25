@@ -27,8 +27,7 @@ const printOddNumbers = function(arr) {
       console.log(arr[i]);
     }
   }
-})(numbers1);
-
+})(numbers1);......
 output:
 1
 3
