@@ -23,4 +23,8 @@ const sum1= (function(arr) {
 
 console.log(sum1);
 
+
+output:
+15
+
   
